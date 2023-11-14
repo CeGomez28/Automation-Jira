@@ -11,6 +11,7 @@ Además, instala las siguientes bibliotecas de Python ejecutando el siguiente co
 ```bash
 pip install requests openpyxl 
 ```
+
 ## Ejecutable
 
 Si no tienes Python instalado o prefieres no ejecutar el script directamente, puedes utilizar el ejecutable proporcionado.
