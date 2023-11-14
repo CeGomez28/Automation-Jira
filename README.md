@@ -9,8 +9,8 @@ Antes de ejecutar el script, asegúrate de tener instalado Python en tu sistema.
 Además, instala las siguientes bibliotecas de Python ejecutando el siguiente comando:
 
 ```bash
-pip install requests openpyxl
-
+pip install requests openpyxl 
+```
 ## Ejecutable
 
 Si no tienes Python instalado o prefieres no ejecutar el script directamente, puedes utilizar el ejecutable proporcionado.
