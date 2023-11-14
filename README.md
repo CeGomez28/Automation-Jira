@@ -10,3 +10,12 @@ Además, instala las siguientes bibliotecas de Python ejecutando el siguiente co
 
 ```bash
 pip install requests openpyxl
+
+## Ejecutable
+
+Si no tienes Python instalado o prefieres no ejecutar el script directamente, puedes utilizar el ejecutable proporcionado.
+
+1. Descarga el ejecutable desde el directorio `dist` en este repositorio.
+2. Ejecuta el ejecutable en tu terminal o sistema operativo.
+
+Ten en cuenta que el ejecutable puede ser detectado como un archivo potencialmente peligroso por algunos sistemas de seguridad debido a su naturaleza. Si encuentras problemas al ejecutarlo, asegúrate de que tu sistema lo permita y confía en la fuente.
